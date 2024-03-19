@@ -1,17 +1,10 @@
 body {
   background-color: yellow;
 }
-h1 {
-  font-size: 34px;
-  text-align: center;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-}
+h1,
 p {
   text-align: center;
-}
-a {
-  display: flex;
-  justify-content: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 .croissant-photo {
   max-width: 100%;
